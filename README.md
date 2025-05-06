@@ -3,7 +3,7 @@
 
 Este painel desenvolvido no **Power BI Desktop** tem como objetivo visualizar e acompanhar o desempenho acadêmico ao longo do curso, permitindo uma análise clara sobre assiduidade, progresso em disciplinas e matérias aprovadas.
 
-## 🧠 Objetivo
+## Objetivo
 
 O projeto visa:
 - Monitorar o progresso nas disciplinas cursadas.
@@ -26,4 +26,7 @@ O projeto visa:
 
 ```
 
+## Desenvolvido por
+
+Danilo 🧠  
 
